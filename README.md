@@ -100,3 +100,14 @@ copiar en angular.json linea 27:
 "scripts": [
 "node_modules/bootstrap/dist/js/bootstrap.min.js"
 ]
+
+
+
+
+
+
+----
+
+https://simpleicons.org/
+https://www.belkadigital.com/
+https://tomorrow-happens.studio/
